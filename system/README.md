@@ -1,1 +1,1 @@
-# The answer is in the ```Vkclip.png```
+# The answer is in the ```vkclip.png```
